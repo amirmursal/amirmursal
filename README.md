@@ -8,7 +8,7 @@ My expertise also extends to open-source UI development and DevOps CI/CD pipelin
 
 I thrive in cross-functional collaboration, working closely with developers, product owners, business analysts, and engineering managers to deliver high-quality software. Known for strong analytical thinking, thorough documentation, and effective defect management, I focus on solution-driven approaches to achieve impactful results.
 
-- 💻 **Tech stack love to work**:
+- 💻 **Tech stack I love to work**:
   - **Frontend**: HTML5, CSS3, JavaScript, TypeScript, React.js, Next.js, D3, Three.js
   - **Backend**: C#, Node.js, Express.js
   - **Mobile**: React Native
@@ -17,6 +17,6 @@ I thrive in cross-functional collaboration, working closely with developers, pro
 
 - 🧠 **What’s New in My Mind**: Exploring how to create immersive developer experiences using WebGL. I’m diving into Three.js to bring 3D visuals to the web and push the boundaries of what modern interfaces can feel like.
 
-- 🎯 ** Why I Love Coding and Building**: For me, coding is the closest thing to magic—turning ideas into reality, one line at a time. I love building because it’s creative, logical, and endlessly challenging. Whether it’s solving a complex problem or crafting a smooth user experience, I get a real sense of purpose from creating things that work, help, and inspire..
+- 🎯 **Why I Love Coding and Building**: For me, coding is the closest thing to magic—turning ideas into reality, one line at a time. I love building because it’s creative, logical, and endlessly challenging. Whether it’s solving a complex problem or crafting a smooth user experience, I get a real sense of purpose from creating things that work, help, and inspire..
 
 Feel free to reach out to me for any **questions, feedback, or collaboration opportunities** via **[LinkedIn](https://www.linkedin.com/in/ameer-m-320b1568/)** or **[email me](mailto:amirmursal@gmail.com)**!
